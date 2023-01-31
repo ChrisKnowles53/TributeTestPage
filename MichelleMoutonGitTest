@@ -1,0 +1,147 @@
+<html>
+  <head>
+    <title>Michèlle Mouton - The Queen of Rallying</title>
+      <link href="https://fonts.googleapis.com/css?family=Solitreo" rel="stylesheet" type="text/css">
+ <style>
+:root {
+      --audi-red: #C8102E;
+      --audi-grey: #8A8D8F;
+      --audi-black: #000000;}
+* { box-sizing: border-box; max-width: 700px; }
+.column {
+    float: left;
+    width: 25%;
+    padding: 5px;}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;}
+figure {
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    max-width: 150px;
+    margin: auto;}
+img {
+    max-width: 150px;
+    max-height: 140px;}
+figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;}
+h1 {
+    color: var(--audi-black, pink);
+    text-align: center; 
+    max-width: 710px}
+h2 {
+    color:red;
+    font-size:25px;
+    font-family: arial, Solitreo;}
+h3 {
+    color: var(--audi-black, pink);
+    font-size: 20px;
+    font-family: arial, Solitreo}
+p {
+    color: var(--audi-black, pink); 
+    font-size: 16px;
+    font-family: arial, Solitreo;
+    max-width:710px;}
+ul.a {
+    list-style-type: circle;
+    color: var(--audi-black, pink);
+    font-family: arial, Solitreo;
+    font-size: 16px;}
+.larger-image {
+    width: 700px;}
+.smaller-image {
+    width: 150px;}
+.red-border {
+    border-color: var(--audi-red, pink);
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px}
+.grey-background {
+    background-color: var(--audi-grey, pink);
+    color: red;
+    font-family: arial, Solitreo;}
+.center-fit {
+    max-width: 100%;
+    max-height: 100vh;
+    margin: auto;}
+ .grey-box {
+    background-color: var(--audi-grey, pink); 
+    color: white; 
+    font-size: 16px; 
+    font-family: arial, Solitreo; 
+    width: auto; padding: 5px; 
+    border-radius: 5px;
+    max-width: 700px;}
+.background {
+    background-color: #FFFDD0;}
+ 
+ </style>
+
+<h1 id="title">Michèlle Mouton - The Queen of Rallying</h1>
+</head>
+<body class="background">
+    <img class="larger-image red-border center-fit" src="https://upload.wikimedia.org/wikipedia/commons/1/14/Mich%C3%A8le_Mouton_2.JPG" alt="Michèlle Mouton Rally image">
+    <p class="grey-box">Michèlle Mouton: Born 23rd June 1951, Grasse, France, First Win 1974 Rallye Sanremo </p>
+    <p>Michèle Mouton is a French former rally driver. Competing in the World Rally Championship for the Audi factory team, she took four victories and finished runner-up in the drivers' world championship in 1982.</p>
+    <h3>1972-1973</h3>
+      <p>She started as a Co-Driver for a few rallies in 1972/73 after which her father suggested she switch to driving if she wanted to conitnue and promissed to buy her a car and give her one year to prove herself, she started with an <a href="https://en.wikipedia.org/wiki/Alpine_A110"> Alpine-Renault A110</a>.</p>
+    <h3>1974 -1980</h3>
+      <p>In the World Rally Championship, Mouton made her driver debut in 1974, finishing 12th in the Tour de Corse in an Alpine A110. It was rumoured, by other male competitors, her good performances were the result of a special engine, however her car passed inspection by WRC scrutineers. At the end of the year, Mouton was crowned both French and European ladies' champion.  Her skills competing in the 24 Hours of Le Mans attracted Elf as a corporate sponsor from 1977 to 1980.</p>
+    <h3>1981-1985</h3>
+      <p>In 1981 she was called by Audi to join the new factory team launching the new <a href="https://rallygroupbshrine.org/the-group-b-cars/rally-cars/audi-quattro-a1a2/"> Audi Quattro</a>, a 300Bhp 4 wheel drive car which went on to become a <a href="https://rallygroupbshrine.org/the-rise-and-fall-of-group-b"> Group B</a> rally car know as an <a href="https://rallygroupbshrine.org/the-group-b-cars/rally-cars/audi-sport-quattro-s1/"> Audi Quatrro S1</a>.  She remained with Audi until 1985 when she was reduced to a part ime WRC season and test and development.</p>
+    <h3>1985-1986</h3>
+      <p>She moved to Peugeot and remained with them driving the <a href="https://rallygroupbshrine.org/the-group-b-cars/rally-cars/peugeot-205-t16-e1e2"> Peugeot 205 Turbo 16</a> unitl 1986 when the FIA banned the Group B rally cars from competition.  With this Group B ban Michèle decided to quit rallying.</p>
+    <h3>1987 to present day</h3>
+      <p>In the later years she has completed in various events and supported other top drivers to succeed in various rallies.  In 2010, Mouton became the first president of the FIA's Women & Motor Sport Commission.  In 2012 she was elected to join the <a href="https://en.wikipedia.org/wiki/Rally_Hall_of_Fame">Rally Hall of Fame</a>.</p>
+    <h3>World Rally Record Statistics:</h3>
+      <p><ul class="a">
+        <li> Competition Years: 1974 - 1986</li>
+          <li>Teams: <a href="https://fiat.co.uk">Fiat</a>, <a href="https:audi.co.uk">Audi</a>, <a href="https://Peugeot.co.uk">Peugeot</a></li>
+          <li>Rallies: 50</li>
+          <li>Championships: 0</li>
+          <li>Rally Wins: 4 </li>
+          <li>Podiums: 9</li>
+          <li>Stage Wins: 162</li>
+          <li>First Rally: Tour de Corse</li>
+          <li>First Win: 1974 <a href="https://www.rallyesanremo.it">Rallye Sanremo</a></li>
+          <li>Last Win: 1982 Rally Brazil</li>
+          <li>Last Rally: 1986 Tour de Corse</li>
+        </ul>
+      </p> 
+  <p class="grey-box">Whos the next female motorsport icon?<p>
+    <div class="row">
+    <div class="column">
+      <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ana_Beatriz_2010_Indy_500_Practice_Day_7.JPG/225px-Ana_Beatriz_2010_Indy_500_Practice_Day_7.JPG" alt="Ana Beatriz image" style="width:100%">
+        <figcaption>Ana Beatriz </figcaption>
+      </figure>
+    </div>
+    <div class="column">
+      <figure>
+        <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Danica_patrick_%2841737859284%29.jpg/225px-Danica_patrick_%2841737859284%29.jpg" alt="Danica Patrick image" style="width:100%">
+        <figcaption>Danica Patrick</figcaption>
+      </figure>
+    </div>
+    <div class="column">
+      <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2019_Brands_Hatch_W_Series_round_11.jpg/225px-2019_Brands_Hatch_W_Series_round_11.jpg" alt="Fabienne Wohlwend image"  style="width:100%">
+        <figcaption>Fabienne Wohlwend</figcaption>
+      </figure>
+    </div>
+    <div class="column">
+      <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jamie_Laura_Chadwick.jpg/225px-Jamie_Laura_Chadwick.jpg" alt="Jamie Chadwick image" style="width:100%">
+        <figcaption>Jamie Chadwick</figcaption>
+      </figure>
+    </div>
+  </div>
+<p><a href="https://en.wikipedia.org/wiki/List_of_female_racing_drivers">list of female racing drivers</a></p>
+
+</body>
+</html>
