@@ -1,0 +1,77 @@
+:root {
+      --audi-red: #C8102E;
+      --audi-grey: #8A8D8F;
+      --audi-black: #000000;}
+* { box-sizing: border-box; max-width: 700px; }
+.column {
+    float: left;
+    width: 25%;
+    padding: 5px;}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;}
+figure {
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    max-width: 150px;
+    margin: auto;}
+img {
+    max-width: 150px;
+    max-height: 140px;}
+figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;}
+h1 {
+    color: var(--audi-black, pink);
+    text-align: center; 
+    max-width: 710px}
+h2 {
+    color:red;
+    font-size:25px;
+    font-family: arial, Solitreo;}
+h3 {
+    color: var(--audi-black, pink);
+    font-size: 20px;
+    font-family: arial, Solitreo}
+p {
+    color: var(--audi-black, pink); 
+    font-size: 16px;
+    font-family: arial, Solitreo;
+    max-width:710px;}
+ul.a {
+    list-style-type: circle;
+    color: var(--audi-black, pink);
+    font-family: arial, Solitreo;
+    font-size: 16px;}
+.larger-image {
+    width: 700px;}
+.smaller-image {
+    width: 150px;}
+.red-border {
+    border-color: var(--audi-red, pink);
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px}
+.grey-background {
+    background-color: var(--audi-grey, pink);
+    color: red;
+    font-family: arial, Solitreo;}
+.center-fit {
+    max-width: 100%;
+    max-height: 100vh;
+    margin: auto;}
+ .grey-box {
+    background-color: var(--audi-grey, pink); 
+    color: white; 
+    font-size: 16px; 
+    font-family: arial, Solitreo; 
+    width: auto; padding: 5px; 
+    border-radius: 5px;
+    max-width: 700px;}
+.background {
+    background-color: #FFFDD0;}
